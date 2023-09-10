@@ -12,3 +12,4 @@ Credit Analyst - First City Monument Bank     2008 - 2011
 
 ### Projects
 #### Multidimensional Poverty Index - MPI In Nigeria
+![](/images/mpi.jpg)
