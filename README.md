@@ -20,3 +20,14 @@ This project is on the Multidimensional Poverty Index (MPI) in different states 
 
 
 # DATA CLEANING AND VISUALIZATION IN EXCEL
+![](/images/idp.jpg)
+
+In this analysis, we tend to look at the state of Internally Displaced Persons (IDPs) in Nigeria. Knowing that they are mostly in the northen part of the country, we focused our data analysis on the North East region of Nigeria. Unarguably, this is the part of the nation that has suffered most from insurgency, leading to most citizens there becoming IDPs. With this analysis, both local and international NGOs will know how to be of help.
+
+
+# DATA EXPLORATION IN SQL
+![](/images/sql.jpg)
+
+
+# DATA VISUALIZATIONS IN POWER BI
+![](/images/PowerBI.png)
