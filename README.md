@@ -30,4 +30,4 @@ In this analysis, we tend to look at the state of Internally Displaced Persons (
 
 
 # DATA VISUALIZATIONS IN POWER BI
-![](/images/powerbi.png)
+![](/images/abc.jpg)
