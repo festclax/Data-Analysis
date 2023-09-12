@@ -30,6 +30,7 @@ This project is on the Multidimensional Poverty Index (MPI) in different states 
 
 In this analysis, we looked at the state of Internally Displaced Persons (IDPs) in Nigeria. Knowing that they are mostly in the northen part of the country, we focused our data analysis on the North East region of Nigeria. Unarguably, this is the part of the nation that has suffered most from insurgency, leading to most citizens there becoming IDPs. With this analysis, both local and international NGOs will know how to be of help.
 
+[VIEW PROJECT](https://www.canva.com/design/DAFuOSLYW-4/B8he8DONOBHv7R0ig4woXQ/edit?ui=eyJHIjp7fX0)
 
 # DATA EXPLORATION IN SQL
 ![](/images/sql.jpg)
