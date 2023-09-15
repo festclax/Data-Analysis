@@ -17,6 +17,17 @@ Credit Analyst - First City Monument Bank     2008 - 2011
 ## PROJECTS
 
 
+
+# DATA CLEANING AND EXPLORATION IN SQL
+![](/images/sql.jpg)
+
+In this project, analysis of food prices and the consumer price indices was carried out. Dataset is from Humanitarian Data Exchange site. The data was cleansed, preprocessed, and prepared using SQL.
+
+[VIEW PROJECT](https://github.com/festclax/Data-Analysis/blob/main/SQL/SQLProject.sql)
+
+
+
+
 # DATA ANALYSIS IN PYTHON
 ![](/images/mpi.jpg)
 
@@ -33,10 +44,6 @@ In this analysis, we looked at the state of Internally Displaced Persons (IDPs) 
 
 [VIEW PROJECT](https://www.canva.com/design/DAFuOSLYW-4/B8he8DONOBHv7R0ig4woXQ/edit?ui=eyJHIjp7fX0)
 
-
-
-# DATA EXPLORATION IN SQL
-![](/images/sql.jpg)
 
 
 # DATA VISUALIZATIONS IN POWER BI
