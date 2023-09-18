@@ -48,5 +48,6 @@ In this analysis, we looked at the state of Internally Displaced Persons (IDPs) 
 
 
 
-# DATA VISUALIZATIONS IN POWER BI
+# DATA VISUALIZATIONS IN TABLEAU
 ![](/images/abc.jpg)
+[VIEW PROJECTS](https://public.tableau.com/app/profile/festus.aigbedion)
